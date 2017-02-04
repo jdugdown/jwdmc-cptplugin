@@ -6,8 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdugdown/jwdmc-cptplugin.git"
+  },
   "author": "Josh",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdugdown/jwdmc-cptplugin/issues"
+  },
+  "homepage": "https://github.com/jdugdown/jwdmc-cptplugin#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-notify": "^3.0.0",
